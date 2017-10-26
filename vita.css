@@ -1,0 +1,787 @@
+.standard-logo {
+  float:left;
+}
+
+.glyphicon {
+  top: 2px;
+  display:inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style:normal;
+  font-weight:normal;
+  line-height:1;
+  box-sizing: border-box;
+  margin-top: 25px;
+  color: white;
+}
+
+.header-middle ul li span {
+  font size: 23px;
+  vertical-align:text-bottom;
+  margin-right: 9px;
+}
+.header-middle u li a {
+  color:#fff;
+}
+.header-middle {
+  text-align: center;
+}
+.header-right {
+  float:right;
+  width:20%;
+  color:black;
+}
+.search {
+  border:1px solid #d2cfCf;
+  margin-top: 2px;
+  border-bottom: 10px;
+ float: right;
+}
+
+/*Section Header*/
+#Header {
+  margin-top: 20px;
+  width: 100%;
+  font-size: 40px;
+  font-weight: 900;
+}
+  .navbar-denofault {
+   font-family: 'Raleway', sans-serif;
+   font-weight: 900;
+   color: red;
+   background-color: white;
+  }
+  .navbar-default .navbar-nav > li > a {
+    color: black;
+   font-weight: 900;
+   font-size: 15px;
+  font-family: sans-serif;
+  }
+/*Section Carousel*/
+
+#myCarousel .item>img{
+	width: 100%;
+	height: 400px;
+}
+
+
+#myCarousel .carousel-caption .col-md-10>p{
+	margin-left: 35px;
+}
+
+/*Section Console*/
+
+.container2 {
+  width:400px;
+  height:300px;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Khula:700);
+body {
+  background-color:lightblue;
+}
+.hidden {
+  opacity:0;
+}
+.console-container {
+
+  font-family:Khula;
+  font-size:4em;
+  text-align:center;
+  height:200px;
+  width:600px;
+  display:block;
+  color:white;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  margin:auto;
+  margin-top: 100px;
+
+}
+.console-underscore {
+   display:inline-block;
+  position:relative;
+  top:-0.14em;
+  left:10px;
+}
+
+
+
+
+/*Section Corners*/
+.h1 {
+
+color: lightblue;
+font-family: fantasy;
+font-size: 50px;
+margin-bottom: 50px;
+}
+
+#rcorners1 {
+    border-radius: 25px;
+   border: 2px solid #73AD21;
+    padding: 10px;
+    width: 300px;
+    height: 250px;
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 10px;
+    width: 300px;
+    height: 250px;
+}
+
+#rcorners3 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 10px;
+    width: 300px;
+    height: 250px;
+
+
+}
+.col-sm-3 {
+  font-size: 1px;
+  font-family: fantasy;
+  color: white;
+}
+
+.medium.mybutton {
+  font-size:13px;
+  font-weight:bold;
+  padding: 5px 10px 6px;
+}
+.light.mybutton {
+  color: #ddd;
+  border-radius:4px;
+  background:#fff
+}
+/*Section Jumbotron*/
+
+.col-sm-4  >p {
+   color:darkblue;
+   width:200px;
+   font-family: fantasy;
+   font-size: 30px;
+   font-weight:400px;
+}
+.jumbotron {
+  color: darkblue;
+}
+
+/*Section Introduction*/
+
+.container5 {
+
+  color: black;
+  font-weight: 900px;
+}
+
+.media-object {
+  border-radius:50%;
+}
+.btn
+{
+  text-align:center;
+  color:black;
+  float:right;
+}
+
+/*Section Carousel Testimonials*/
+.container3 {
+  background-color: lightblue;
+  height:50%.;
+}
+
+#myCarousel .item>img{
+	width: 100%;
+	height: 600px;
+}
+
+
+#myCarousel .carousel-caption .col-md-10>p{
+	margin-left: 35px;
+}
+
+.imgSyri{
+
+  border-radius: 50%;
+}
+.imgmarta  {
+  border-radius: 50%;
+}
+.imgMaria2 {
+  border-radius: 50%;
+}
+.imgMadalena {
+  border-radius: 50%;
+}
+.imgKeri {
+  border-radius: 50%;
+}
+
+/*Section Carousel Testimonials2*/
+
+#myCarousel .item {
+	width: 100%;
+	height: 600px;
+  margin-top: 50px;
+}
+
+.container4 {
+  background-color: lightblue;
+  height:auto;
+}
+
+#myCarousel .carousel-caption .col-md-10>p{
+	margin-left: 35px;
+}
+.item6 {
+  font-family: fantasy;
+  font-style: italic;
+  font-size: 60px;
+  font-weight: bolder;
+  text-shadow: 2px 2px darkblue;
+}
+
+.item6>p {
+  font-family: fantasy;
+  font-style: italic;
+  font-size: 30px;
+  font-weight: bolder;
+  text-shadow: 2px 2px darkblue;
+}
+
+
+  /*Section Modal pluggin*/
+
+  .container21 {
+width:100%;
+height:100%;
+background-color: #ccccff;
+  }
+
+
+  /*Section Jumbotron*/
+
+
+  .jumbotron22 {
+    color: dimgray;
+    padding:0;
+    margin: 0 auto;
+  }
+
+
+
+  .circleone {
+    background:#ccccff;
+    width:100%;
+    height: 265px;
+    border-radius:50%;
+    border:2px solid #000000;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 100px;
+    text-align: center;
+    left: 50px;
+    webkit-border-radius: 150px;
+  	-moz-border-radius: 150px;
+  }
+  .container {
+    background-color: lightblue;
+  }
+  .circletwo {
+    background:#ccccff;
+    width:100%;
+    height: 265px;
+    border-radius:50%;
+    border:2px solid #000000;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 100px;
+    text-align: center;
+    left: 50px;
+    webkit-border-radius: 150px;
+  	-moz-border-radius: 150px;
+  }
+
+  .circlethree {
+    background:#ccccff;
+    width:50%;
+    height: 265px;
+    border-radius:50%;
+    border:2px solid #000000;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 100px;
+    text-align: center;
+    left: 50px;
+    webkit-border-radius: 150px;
+  	-moz-border-radius: 150px;
+  }
+
+  .circlefour {
+    background:#ccccff;
+    width:100%;
+    height: 265px;
+    border-radius:50%;
+    border:2px solid #000000;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 100px;
+    text-align: center;
+    left: 50px;
+    webkit-border-radius: 150px;
+  	-moz-border-radius: 150px;
+  }
+
+  .circlefive {
+    background:#ccccff;
+    width:100%;
+    height: 265px;
+    border-radius:50%;
+    border:2px solid #000000;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 100px;
+    text-align: center;
+    left: 50px;
+    webkit-border-radius: 150px;
+  	-moz-border-radius: 150px;
+  }
+
+  .circlesix {
+    background:#ccccff;
+    width:100%;
+    height: 350px;
+    border-radius:50%;
+    border:2px solid #000000;
+    margin: 0 auto;
+    padding:50px;
+    margin-top: 100px;
+    text-align: center;
+    left: 50px;
+    webkit-border-radius: 150px;
+  	-moz-border-radius: 150px;
+  }
+
+    /*Section Second Jumbotron*/
+
+  .container23 {
+    background-color: white;
+  }
+  .cadre {
+    border: 5px solid black;
+    border:radius 50%;
+    height:600px;
+    width: 500px;
+  }
+
+  .container24 {
+    background-color: white;
+  }
+  .cadre {
+    border: 5px solid black;
+    border:radius 50%;
+    height:600px;
+    width: 500px;
+  }
+
+  @import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+
+  body {
+      font-family: 'Oswald', sans-serif;
+      color: #000;
+      background-color: #fff;
+  }
+  .wrap {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  /* Clip text element */
+  .clip-text {
+      font-size: 4em;
+      font-weight: bold;
+      line-height: 1;
+      display: inline-block;
+      margin: .25em;
+      padding: .5em .75em;
+      text-align: center;
+      /* Color fallback */
+      color: #000;
+
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+  }
+
+  .clip-text:before,
+  .clip-text:after {
+      content: '';
+  }
+
+  /* Background */
+  .clip-text:before {
+      z-index: -2;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-image: inherit;
+  }
+
+  /* Text outer background */
+  .clip-text:after {
+      position: absolute;
+      z-index: -1;
+      top: 0em;
+      right: 0em;
+      bottom: 0em;
+      left: 0em;
+      background-color: #fff;
+  }
+
+  .clip-text_one {
+      background-image: url("Images/Culture.jpeg");
+      height:600px;
+      width: 500px;
+      position: relative;
+    }
+
+
+
+    /*Section Picture*/
+
+    .Title {
+      margin-top:0px;
+      letter-spacing: 13px;
+      font-size: 100px;
+      font-weight:bold;
+      line-height: 120px;
+      color: white;
+    }
+    .container31 {
+      background-image:url("Images/Syri2.jpg");
+      background-size:cover;
+      width:1205px;
+      height:120vh;
+    }
+
+    .btn
+    {
+      text-align:center;
+      color:black;
+      min-width:174px;
+      font-size:28px;
+      background-color: white;
+      padding-top: 21px;
+      padding-bottom: 21px
+      text-transform: uppercase;
+      border: 2px;
+
+
+    }
+    .ReadMore {
+      position: absolute;
+      bottom: 0px;
+    }
+
+
+    /*Section Article*/
+
+    div.container32 {
+        width: 100%;
+        border: 1px solid black;
+        background-color: lightblue;
+
+    }
+
+    header {
+        padding: 1em;
+        color: yellow;
+        background-color: black;
+        clear: left;
+        text-align: center;
+    }
+
+    nav2 {
+        float: left;
+        max-width: 160px;
+        margin: 0;
+        padding: 1em;
+    }
+
+    nav2 ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    nav2 ul a {
+        text-decoration: underline;
+        font-family: cursive Lucida Handwriting;
+        color: black;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+
+    nav3 {
+        float: right;
+        max-width: 160px;
+        margin: 0;
+        padding: 1em;
+    }
+
+    nav3 ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    nav3 ul a {
+        text-decoration: underline;
+        font-family: cursive Lucida Handwriting;
+        color: black;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    article {
+        margin-left: 170px;
+        border-left: 1px solid gray;
+        border-right: 1px solid gray;
+        padding: 1em;
+        overflow: hidden;
+    }
+
+
+    /*Section Picture Blogcover*/
+
+    .Title {
+      margin-top:0px;
+      letter-spacing: 13px;
+      font-size: 100px;
+      font-weight:bold;
+      line-height: 120px;
+      color: white;
+    }
+    .container33 {
+      background-image:url("Images/landscape.jpg");
+      background-size:cover;
+      width:1205px;
+      height:80vh;
+    }
+
+    .btn
+    {
+      text-align:center;
+      color:black;
+      min-width:174px;
+      font-size:28px;
+      background-color: white;
+      padding-top: 21px;
+      padding-bottom: 21px
+      text-transform: uppercase;
+      border: 2px;
+
+
+    }
+    .ReadMore34 {
+      position: absolute;
+      bottom: 0px;
+    }
+
+
+
+      /*Section Second Jumbotron How does it work*/
+
+    .container41 {
+      background-color: white;
+    }
+    .cadre {
+      border: 5px solid black;
+      border:radius 50%;
+      height:600px;
+      width: 500px;
+    }
+
+    .container42 {
+      background-color: white;
+    }
+    .cadre {
+      border: 5px solid black;
+      border:radius 50%;
+      height:600px;
+      width: 500px;
+    }
+
+    @import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+
+    body {
+        font-family: 'Oswald', sans-serif;
+        color: #000;
+        background-color: #fff;
+    }
+    .wrap {
+      max-width: 100%;
+      margin: 0 auto;
+    }
+
+
+    .clip-text {
+        font-size: 4em;
+        font-weight: bold;
+        line-height: 1;
+        display: inline-block;
+        margin: .25em;
+        padding: .5em .75em;
+        text-align: center;
+        color: #000;
+
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+    }
+
+    .clip-text:before,
+    .clip-text:after {
+        content: '';
+    }
+
+    /* Background */
+    .clip-text:before {
+        z-index: -2;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-image: inherit;
+    }
+
+    /* Text outer background */
+    .clip-text:after {
+        position: absolute;
+        z-index: -1;
+        top: 0em;
+        right: 0em;
+        bottom: 0em;
+        left: 0em;
+        background-color: #fff;
+    }
+
+    .clip-text_one {
+        background-image: url("Images/Culture.jpeg");
+        height:600px;
+        width: 500px;
+        position: relative;
+      }
+
+      /*Section Picture How Does it Work Cover*/
+
+      .Title50 {
+        margin-top:0px;
+        letter-spacing: 13px;
+        font-size: 100px;
+        font-weight:bold;
+        line-height: 120px;
+        color:black;
+      }
+      .container51 {
+        background-image:url("Images/Syri1.jpg");
+        background-size:cover;
+        width:1205px;
+        height:120vh;
+      }
+
+      .btn52
+      {
+        text-align:center;
+        color:black;
+        min-width:174px;
+        font-size:28px;
+        background-color: white;
+        padding-top: 21px;
+        padding-bottom: 21px
+        text-transform: uppercase;
+        border: 2px;
+
+
+      }
+      .ReadMore53 {
+        position: absolute;
+        bottom: 0px;
+      }
+
+
+
+
+/*Section Footer*/
+
+#footer {
+  color:black;
+  background: black;
+  padding-top: 10px;
+  padding-bottom: 10px 0;
+  padding-right: 10px 0;
+  padding-left: 10px 0;
+
+
+}
+.footer a {
+  color: white;
+  background-color:lightblue;
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 10px;
+  border-right: 1px solid #726F6F;
+  transition: all .5s ease;
+
+}
+.panel {
+  background-color: white;
+}
+
+.panel-body {
+  background-color: black;
+  color:white;
+}
+.panel-footer {
+  background-color: black;
+  color: white;
+}
+
+/*Mise en forme media sociaux*/
+.socialmedia {
+  padding-left: 0;
+}
+/*Taille des icones et arrondi */
+.socialmedia .fa{
+  font-size: 10px;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-twitter {
+  color: lightblue;
+}
+.fa-pinterest {
+  color: blue;
+}
+.fa-linkedin {
+  color:blue;
+}
+.fa-skype {
+  color:blue;
+}
+
+.col-md-3 {
+  float:right;
+  margin-top: auto;
+
+}
